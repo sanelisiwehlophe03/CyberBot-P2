@@ -9,14 +9,6 @@ namespace CyberBot.Services
     /// <summary>
     /// The chatbot "brain". It takes text in and returns text out, with no UI code,
     /// so the WPF window only has to display what it returns.
-    ///
-    /// Part 2 features:
-    ///  - Keyword recognition (topics + sub-questions)
-    ///  - Random, non-repeating tips
-    ///  - Conversation flow (follow-ups continue the current topic)
-    ///  - Memory and recall (name, favourite topic, topics discussed)
-    ///  - Sentiment detection (worried / frustrated / overwhelmed / curious / positive)
-    ///  - Error handling and default responses
     /// </summary>
     public class Chatbot
     {

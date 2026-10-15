@@ -2,7 +2,6 @@ namespace CyberBot.Models
 {
     /// <summary>
     /// Holds everything the chatbot "remembers" about the person it is talking to.
-    /// Uses automatic properties (Part 1 learning outcome).
     /// </summary>
     public class User
     {
