@@ -3,9 +3,8 @@
 A Windows desktop chatbot (WPF, .NET 8) that teaches South African users about phishing, passwords,
 malware, firewalls, VPNs, two-factor authentication, scams, privacy and safe browsing.
 
-![CI](https://github.com/<your-username>/<your-repo>/actions/workflows/dotnet.yml/badge.svg)
 
-**Video presentation:** <paste unlisted YouTube link here>
+**Video presentation:** 
 
 ## How to run
 1. Install the .NET 8 SDK (Windows).
