@@ -4,7 +4,7 @@ A Windows desktop chatbot (WPF, .NET 8) that teaches South African users about p
 malware, firewalls, VPNs, two-factor authentication, scams, privacy and safe browsing.
 
 
-**Video presentation:** 
+**Video presentation:** https://advtechonline-my.sharepoint.com/:v:/r/personal/st10500376_rcconnect_edu_za/_layouts/15/stream.aspx?id=%2Fpersonal%2Fst10500376%5Frcconnect%5Fedu%5Fza%2FDocuments%2FLabVM2334547%20%2D%20labvmdnsm4okohpypfuo4%2Esouthafricanorth%2Ecloudapp%2Eazure%2Ecom%5F3389%20%2D%20Remote%20Desktop%20Connection%202026%2D10%2D16%2012%2D09%2D09%2Emp4&share=cQocuQjbOTc0RoV9MlGlvVuiEgUCeY8NlXFGMsob1vur2RBO5g
 
 ## How to run
 1. Install the .NET 8 SDK (Windows).
